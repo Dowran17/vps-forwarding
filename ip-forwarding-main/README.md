@@ -19,7 +19,7 @@ chmod +x routing-vps.sh
 sudo ./routing-vps.sh
 
 ### Main-VPS
-wget https://raw.githubusercontent.com/kervenov/ip-forwarding/main/main-vps.sh
+wget https://raw.githubusercontent.com/Dowran17/vps-forwarding/refs/heads/main/ip-forwarding-main/main-vps.sh
 
 chmod +x main-vps.sh
 
